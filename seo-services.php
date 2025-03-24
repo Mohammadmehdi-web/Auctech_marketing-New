@@ -8,7 +8,7 @@
     <meta name="keywords" content="AuctechMarketingPvt.Ltd." />
     <meta name="author" content="Auctech Marketing Pvt. Ltd." />
 
-    <title>Auctech Marketing Pvt. Ltd. | Search Engine Marketing (SEM)</title>
+    <title>Auctech Marketing Pvt. Ltd. | SEO Services</title>
 
     <link rel="icon" type="image/png" href="images/logo/favicon.png" />
 
@@ -161,8 +161,8 @@
                 <img src="images/services/service-detalis-page-headin-img.png" alt="">
             </div>
             <div class="pages-heading-text style-2 p-absolute z-index-1">
-                <span>Home / Search Engine Marketing (SEM)</span>
-                <h2>Search Engine Marketing (SEM)</h2>
+                <span>Home /SEO Services</span>
+                <h2>SEO Services</h2>
             </div>
         </div>
         <!-- Service Details Wcu One Start -->
@@ -185,20 +185,21 @@
                     </div>
                     <div class="col-xl-5 col-lg-5">
                         <div class="section-title mb-32 style-1">
-                            <h2>Search Engine Marketing (SEM)</h2>
+                            <h2>SEO Services</h2>
                         </div>
                         <div class="wcu-area-card-info-secondary">
                             <div class="wcu-area-info-card-wrapper">
 
-                                <p>Search Engine Marketing (SEM) is a powerful way to promote your business online using
-                                    paid advertisements on search engines like Google and Bing. With SEM, your brand can
-                                    appear at the top of search results, helping you reach potential customers instantly
-                                    when they search for products or services related to your business. This method
-                                    offers quick visibility, measurable results, and a great return on investment.</p>
+                                <p>Boost your website’s visibility and attract more visitors with our expert SEO (Search
+                                    Engine Optimization) services. We follow ethical, white-hat strategies that ensure
+                                    long-term success. Our focus is to improve your rankings, drive organic traffic, and
+                                    grow your online presence.</p>
                                 <p class="mt-2">
-                                    At Auctech, our SEM experts carefully design and manage ad campaigns to ensure you
-                                    get the best results. From choosing the right keywords to optimizing your ad
-                                    content, we cover all aspects of SEM to grow your business.
+                                    Enhance your website’s visibility, attract more visitors, and achieve long-term
+                                    growth with our expert SEO (Search Engine Optimization) services. At Auctech, we use
+                                    ethical and effective methods to help your business rank higher on search engines
+                                    like Google and Bing. Our comprehensive SEO strategies cover all areas to ensure
+                                    your website reaches its full potential.
                                 </p>
                             </div>
                             <div class="wcu-area-info-card-wrapper">
@@ -206,20 +207,22 @@
                                 <p class="mt-4">
                                     <img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
-                                    <strong class="text-white">Google Ads Management: </strong> Search, display, and
-                                    shopping campaigns.
+                                    <strong class="text-white">On-Page SEO:  </strong> Optimizing titles, descriptions, and content.
                                 </p>
                                 <p class="mt-3">
                                     <img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
-                                    <strong class="text-white"> Keyword Research: </strong> Identifying high-impact
-                                    keywords for better visibility.
+                                    <strong class="text-white"> Off-Page SEO:  </strong> Building quality backlinks and domain authority.
                                 </p>
                                 <p class="mt-3">
                                     <img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
-                                    <strong class="text-white"> Ad Optimization: </strong> Continuous A/B testing to
-                                    improve performance.
+                                    <strong class="text-white"> Technical SEO: </strong> Enhancing website speed, mobile-friendliness, and schema markup.
+                                </p>
+                                <p class="mt-3">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    <strong class="text-white"> Local SEO:  </strong> Improving rankings for location-based searches.
                                 </p>
                             </div>
                         </div>
@@ -388,7 +391,7 @@
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
                                         class="mr-2" /> Regularly update keywords for better results.
                                 </p>
-                               
+
                             </div>
                             <div class="wcu-area-info-card-wrapper">
                                 <h5>Ad Optimization</h5>
