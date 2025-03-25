@@ -85,6 +85,16 @@
             margin-top: 0px;
             */
         }
+
+        .wcu-area-info-card-wrapper {
+            margin-bottom: 4px;
+        }
+
+        .wcu-area-card-info {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+        }
     </style>
 </head>
 
@@ -190,13 +200,11 @@
                         <div class="wcu-area-card-info-secondary">
                             <div class="wcu-area-info-card-wrapper">
 
-                                <p>Get instant results and reach your target audience with our professionally managed
-                                    Pay-Per-Click (PPC) campaigns. PPC advertising is a powerful way to promote your
-                                    products or services through search engines and social media platforms. By carefully
-                                    managing your campaigns, we ensure maximum visibility, increased clicks, and
-                                    improved return on investment (ROI). Our team of experts will handle every aspect of
-                                    your campaign — from setup to optimization — delivering measurable and effective
-                                    results.</p>
+                                <p>Your website is the digital face of your business, providing visitors with their
+                                    first impression of your brand. We offer comprehensive website development services,
+                                    focusing on responsive design, user-friendly navigation, and seamless functionality.
+                                    Whether you need a static site, a dynamic content platform, or a feature-rich
+                                    e-commerce store, we deliver customized solutions to meet your business needs.</p>
 
                             </div>
                             <div class="wcu-area-info-card-wrapper">
@@ -204,20 +212,21 @@
                                 <p class="mt-4">
                                     <img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
-                                    <strong class="text-white">Campaign Creation: </strong>Designing and launching
-                                    high-performing ad campaigns.
+                                    <strong class="text-white">Static Websites: </strong>Ideal for businesses requiring
+                                    minimal updates.
                                 </p>
                                 <p class="mt-3">
                                     <img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
-                                    <strong class="text-white"> Ad Copywriting: </strong> Crafting compelling messages
-                                    that drive clicks.
+                                    <strong class="text-white"> Dynamic Websites </strong> Content-rich sites powered by
+                                    CMS platforms like WordPress.
                                 </p>
                                 <p class="mt-3">
                                     <img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
-                                    <strong class="text-white"> A/B Testing: </strong> Experimenting with variations to
-                                    optimize conversions.
+                                    <strong class="text-white">E-commerce Development:</strong> Online stores with
+                                    seamless navigation and
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;payment integration.
                                 </p>
                             </div>
                         </div>
@@ -229,71 +238,110 @@
         <div class="wcu-area body-black p-relative pb-140 ">
             <div class="container">
                 <div class="section-title mb-60 style-1 mb-5">
-                    <h2>How to Design Effective Ad Campaigns for Higher ROI</h2>
+                    <h2>Website Development Solutions:</h2>
                 </div>
                 <div class="row ">
                     <div class="col-xl-8">
                         <div class="wcu-area-card-info">
                             <div class="wcu-area-info-card-wrapper">
-                                <h5>Set Clear Goals and Objectives</h5>
-                                <div class="title-border-3 mt-30 mb-30"></div>
-                                <p class="mb-2"><img width="20" height="20"
+                                <h5>Static Websites</h5>
+                                <div class="title-border-3 mt-17 mb-30"></div>
+                                <p class="mb-2">
+                                    A static website consists of fixed web pages with content that remains the same for
+                                    every visitor. It’s ideal for businesses that don’t require frequent updates and
+                                    prefer a simple online presence.
+                                </p>
+                                <span class="mb-15 fs-5 fw-bold mb-5">Features:</span>
+                                <p class="mb-2 mt-3"><img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" />Define specific objectives such as increasing website visits,
-                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;generating leads, or driving sales.
+                                        class="mr-2" />Fast and lightweight with minimal loading time.
                                 </p>
                                 <p class="mb-2"><img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" />Establish measurable KPIs (Key Performance Indicators) like
-                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click-Through Rates (CTR), Conversion Rates, and Cost Per Click &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CPC).</p>
+                                        class="mr-2" />Cost-effective and easy to host.</p>
+
+                                <p class="mb-2"><img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
+                                        class="mr-2" />CSecure, with fewer vulnerabilities.</p>
+                                <p class="mb-2"><img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
+                                        class="mr-2" />Best for portfolios, informational pages, and small businesses.
+                                </p>
 
                             </div>
                             <div class="wcu-area-info-card-wrapper">
-                                <h5>Choose the Right Platforms</h5>
-                                <div class="title-border-3 mt-30 mb-30"></div>
-                                <p class="mb-2"><img width="20" height="20"
+                                <h5>Dynamic Websites</h5>
+                                <div class="title-border-3 mt-17 mb-30"></div>
+                                <p class="mb-2">
+                                    Dynamic websites display content that can change based on user interaction,
+                                    preferences, or data input. Powered by databases and backend servers, they are
+                                    suitable for content-heavy platforms like blogs, news portals, and interactive
+                                    service sites.
+                                </p>
+                                <span class="mb-15 fs-5 fw-bold mb-5">Features:</span>
+                                <p class="mb-2 mt-3"><img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" />Google Ads Manager is ideal for search ads, display ads, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;shopping ads, and YouTube ads.
+                                        class="mr-2" />Real-time content updates.
                                 </p>
                                 <p class="mb-2"><img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" />Bing Ads also offers great reach for search-based campaigns.</p>
+                                        class="mr-2" />Personalized user experience.</p>
                                 <p class="mb-2"><img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" />For visually-driven ads, use Facebook Ads, Instagram Ads, or &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn Ads for B2B marketing.</p>
-                               
+                                        class="mr-2" />Allows user accounts and comments.</p>
+                                <p class="mb-2"><img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
+                                        class="mr-2" />Flexible content management using CMS.</p>
+
                             </div>
 
                             <div class="wcu-area-info-card-wrapper">
-                                <h5> Perform Keyword Research</h5>
-                                <div class="title-border-3 mt-30 mb-30"></div>
-                                <p class="mb-2"><img width="20" height="20"
+                                <h5> CMS-Based Websites</h5>
+                                <div class="title-border-3 mt-17 mb-30"></div>
+                                <p class="mb-2">
+                                    A CMS (Content Management System) website is built using platforms like WordPress,
+                                    Joomla, or Drupal, enabling users to easily manage content without technical
+                                    knowledge. Businesses can add, edit, or remove content without writing code.
+                                </p>
+                                <span class="mb-15 fs-5 fw-bold mb-5">Features:</span>
+                                <p class="mb-2 mt-3"><img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" />Identify relevant keywords using tools like Google Keyword &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Planner or Ahrefs.
+                                        class="mr-2" />User-friendly admin panel.
                                 </p>
                                 <p class="mb-2"><img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" />Focus on high-intent keywords that potential customers are &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;searching for.
+                                        class="mr-2" />Customizable templates and plugins.</p>
                                 <p class="mb-2"><img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" />Incorporate a mix of short-tail and long-tail keywords for a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;balanced strategy.
-                                
+                                        class="mr-2" />Scalable for growing businesses.</p>
+                                <p class="mb-2"><img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
+                                        class="mr-2" />SEO-friendly with built-in tools.</p>
                             </div>
 
                             <div class="wcu-area-info-card-wrapper">
-                                <h5> Create Compelling Ad Copy</h5>
-                                <div class="title-border-3 mt-30 mb-30"></div>
+                                <h5>E-commerce Websites</h5>
+                                <div class="title-border-3 mt-17 mb-30"></div>
+                                <p class="mb-2">
+                                    An e-commerce website allows businesses to sell products and services online. It
+                                    includes essential features like shopping carts, secure payment gateways, and order
+                                    management systems. Platforms like Shopify, WooCommerce, or Magento are commonly
+                                    used for e-commerce development.
+                                </p>
+                                <span class="mb-15 fs-5 fw-bold mb-5">Features:</span>
                                 <p class="mb-2"><img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" />Develop attention-grabbing headlines that speak to your &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;audience’s needs.
+                                        class="mr-2" />Product listings with images and descriptions.
                                 </p>
                                 <p class="mb-2"><img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" />Write clear and persuasive ad descriptions.</p>
+                                        class="mr-2" /> Multiple payment options for customer convenience.</p>
                                 <p class="mb-2"><img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" />Add powerful Calls-to-Action (CTAs) like “Buy Now” or “Get a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Free Quote.”</p>
-                               
+                                        class="mr-2" />Secure checkout and data encryption.</p>
+                                <p class="mb-2"><img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
+                                        class="mr-2" />Inventory management and order tracking.</p>
                             </div>
 
                         </div>
@@ -308,114 +356,143 @@
             </div>
         </div>
         <!-- Why Choose Us End   -->
-
-        <div class="our-work-step pb-140">
+        <!-- Service Details Wcu One End -->
+        <div class="wcu-area body-black p-relative pb-140">
             <div class="container">
-                <div class="section-title mb-60 style-1">
+                <div class="row ">
+                    <div class="col-xl-8">
+                        <div class="section-title mb-60 style-1 mb-5">
 
-                    <h2 class="mb-40 text-center">Tools and Methods for PPC Management</h2>
+                            <h2>Focus on Responsive Design</h2>
+                        </div>
+                        <div class="">
+                            <div class="wcu-area-info-card-wrapper">
+                                <p class="mt-2 mb-3">
+                                    Responsive design ensures your website adapts to different screen sizes and devices,
+                                    providing a seamless viewing experience on desktops, tablets, and smartphones. With
+                                    mobile browsing dominating internet usage, a responsive site is crucial for
+                                    retaining users and improving search engine rankings.
+                                </p>
+
+                                <span class="mb-15 fs-6 fw-bold mt-5">Benefits: </span>
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Enhances mobile usability.
+                                </p>
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Improves search engine visibility (SEO).
+                                </p>
+
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Increases user engagement and time on site.
+                                </p>
+                                <p class="mt-2 mb-3">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Reduces bounce rates and increases conversions.
+                                </p>
+                                <span class="mb-15 fs-5 fw-bold">Techniques Used:</span>
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Flexible Grids and Layouts: Adjust content size and positioning using CSS grids and
+                                    media queries.
+                                </p>
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Adaptive Images: Resize images for different devices without losing quality.
+                                </p>
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Mobile-First Design: Prioritize mobile design and expand for larger screens.
+                                </p>
+
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-4 d-flex justify-content-center align-items-center">
+                        <div class=" wuc-area-side-img about-area-side-img p-relative" style="margin-right: 40px;">
+                            <img src="images/about/h2-side-bg-img.png" alt="">
+                            <img class="side-img-part p-absolute" src="images/about/h2-side-bg-part.png" alt="">
+                        </div>
+                    </div>
                 </div>
-                <div class="row wrap">
-                    <div class="col-xl-4 col-lg-4 col-md-6">
-                        <div class="our-work-step-card-wrapper">
-                            <div class="our-work-step-card-title">
-                                <h4>Google Ads Manager</h4>
-                                <p class="mb-2"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Create and manage search, display, and shopping ads.</p>
-                                <p class="mb-2"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Track performance and adjust bids for better ROI.</p>
-                                        <p class="mb-2"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Use A/B testing to optimize campaigns.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6">
-                        <div class="our-work-step-card-wrapper">
-                            <div class="our-work-step-card-title">
-
-                                <h4>Bing Ads Manager</h4>
-                                <p class="mb-2 mt-0"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Run ads on Bing and Yahoo networks.</p>
-                                <p class="mb-2"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Access a unique audience with lower CPC.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6">
-                        <div class="our-work-step-card-wrapper">
-                            <div class="our-work-step-card-title">
-
-                                <h4>Google Keyword Planner</h4>
-                                <p class="mb-2"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Find high-performing keywords.</p>
-                                <p class="mb-2"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Analyze search volume and competition.</p>
-                               
-                            </div>
-                        </div>
-                    </div> 
-                       
-                </div>
-                
-            </div>
-            <div class="container mt-5">
-                <div class="row wrap">
-                    <div class="col-xl-4 col-lg-4 col-md-6">
-                        <div class="our-work-step-card-wrapper">
-                            <div class="our-work-step-card-title">
-                                <h4>Google Analytics</h4>
-                                <p class="mb-2"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Track user behavior and conversions.</p>
-                                <p class="mb-2"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Evaluate campaign effectiveness.</p>
-                                        
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6">
-                        <div class="our-work-step-card-wrapper">
-                            <div class="our-work-step-card-title">
-
-                                <h4> SEMrush & Ahrefs</h4>
-                                <p class="mb-2 mt-0"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Analyze competitor ads and strategies.</p>
-                                <p class="mb-2"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Discover profitable keywords.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6">
-                        <div class="our-work-step-card-wrapper">
-                            <div class="our-work-step-card-title">
-
-                                <h4> A/B Testing Tools</h4>
-                                <p class="mb-2"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Test ads with Google Optimize for best results.</p>
-                                <p class="mb-2"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Identify which ads generate better results.</p>
-                               
-                            </div>
-                        </div>
-                    </div> 
-                       
-                </div>
-                
             </div>
         </div>
-        <!-- Service Details Works End  -->
+        <!-- Service Details Works Start  -->
+
+        <!-- Service Details Wcu One End -->
+        <div class="wcu-area body-black p-relative pb-140 ">
+            <div class="container">
+                <div class="row ">
+                    <div class="col-xl-8">
+                        <div class="section-title mb-60 style-1 mb-4">
+
+                            <h2>Focus on User Experience (UX)</h2>
+                        </div>
+                        <div class="">
+                            <div class="wcu-area-info-card-wrapper">
+                                <p class="mt-2 mb-3">
+                                    User experience refers to how users interact with your website. A positive UX makes
+                                    it easy for visitors to navigate, find information, and complete desired actions,
+                                    resulting in higher satisfaction and conversion rates.
+                                </p>
+
+                                <span class="mb-15 fs-6 fw-bold mt-5"> Factors for Good UX: </span>
+                                <p class="mt-2 mt-3">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    <strong class="text-white"> Simple Navigation: </strong> Clear menus and search bars
+                                    to help users find content easily.
+                                </p>
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    <strong class="text-white"> Fast Loading Speed: </strong>Optimize images and reduce
+                                    unnecessary code for faster performance.
+                                </p>
+
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    <strong class="text-white"> Clear Call-to-Actions (CTAs): </strong>Use buttons and
+                                    links that guide users towards actions like signing up or purchasing.
+                                </p>
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    <strong class="text-white">Consistent Design: </strong>Maintain a uniform color
+                                    palette, typography, and layout across all pages.
+                                </p>
+
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    <strong class="text-white"> Accessibility: </strong>Ensure your site is usable for
+                                    people with disabilities using alt text, keyboard navigation, and screen reader
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;compatibility.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-4 d-flex justify-content-center align-items-center">
+                        <div class=" wuc-area-side-img about-area-side-img p-relative" style="margin-right: 40px;">
+                            <img src="images/about/h2-side-bg-img.png" alt="">
+                            <img class="side-img-part p-absolute" src="images/about/h2-side-bg-part.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Service Details Works Start  -->
 
     </div>
     <!-- Services Details Page End -->
