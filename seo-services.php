@@ -28,7 +28,7 @@
     <style>
         .service-details-page .our-work-step-card-wrapper {
             width: 100%;
-            height: 289px;
+            height: 343px;
             border-radius: 0px;
             */ text-align: start;
             justify-content: start;
@@ -207,22 +207,26 @@
                                 <p class="mt-4">
                                     <img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
-                                    <strong class="text-white">On-Page SEO:  </strong> Optimizing titles, descriptions, and content.
+                                    <strong class="text-white">On-Page SEO: </strong> Optimizing titles, descriptions,
+                                    and content.
                                 </p>
                                 <p class="mt-3">
                                     <img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
-                                    <strong class="text-white"> Off-Page SEO:  </strong> Building quality backlinks and domain authority.
+                                    <strong class="text-white"> Off-Page SEO: </strong> Building quality backlinks and
+                                    domain authority.
                                 </p>
                                 <p class="mt-3">
                                     <img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
-                                    <strong class="text-white"> Technical SEO: </strong> Enhancing website speed, mobile-friendliness, and schema markup.
+                                    <strong class="text-white"> Technical SEO: </strong> Enhancing website speed,
+                                    mobile-friendliness, and schema markup.
                                 </p>
                                 <p class="mt-3">
                                     <img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
-                                    <strong class="text-white"> Local SEO:  </strong> Improving rankings for location-based searches.
+                                    <strong class="text-white"> Local SEO: </strong> Improving rankings for
+                                    location-based searches.
                                 </p>
                             </div>
                         </div>
@@ -233,47 +237,134 @@
         <!-- Service Details Wcu One End -->
         <div class="wcu-area body-black p-relative pb-140 ">
             <div class="container">
-
                 <div class="row ">
-
                     <div class="col-xl-8">
                         <div class="section-title mb-60 style-1">
 
-                            <h2>How Paid Ads on Google and Bing Increase Visibility</h2>
+                            <h2>On-Page SEO</h2>
                         </div>
                         <div class="">
                             <div class="wcu-area-info-card-wrapper">
-                                <p class="mb-2 text-justify">
-                                    Paid advertisements on search engines like Google and Bing are a highly effective
-                                    way to boost your brand’s visibility. Unlike organic search results, which take time
-                                    to rank, paid ads instantly place your business at the top of search engine result
-                                    pages (SERPs). This ensures that your products or services are seen by people
-                                    actively searching for them, increasing the chances of attracting customers.
+                                <p class="mb-4 text-justify">
+                                    On-Page SEO involves optimizing your website’s content and structure to ensure
+                                    search engines understand what your site is about. It also enhances user experience,
+                                    which is an important ranking factor.
                                 </p>
-                                <p class="mt-4">
+                                <span class="mb-15 fs-5 fw-bold">Content Optimization:</span>
+                                <p class="mt-2">
                                     <img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
-                                    <strong class="text-white"> Instant Visibility: </strong> Paid ads are displayed at
-                                    the top or bottom of search results, making your brand highly noticeable.
+                                    We create and refine high-quality, relevant, and engaging content for your website.
                                 </p>
-                                <p class="mt-3">
+                                <p class="mt-2">
                                     <img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
-                                    <strong class="text-white"> Targeted Reach: </strong> You can target specific
-                                    audiences based on their location, age, interests, and browsing behavior.
+                                    Keywords are strategically incorporated without compromising readability.
                                 </p>
-                                <p class="mt-3">
+                                <p class="mt-2 mb-4">
                                     <img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
-                                    <strong class="text-white"> Keyword Relevance: </strong> Paid ads are triggered by
-                                    specific keywords that match what users are searching for.
+                                    Informative blog posts, product descriptions, and landing page content are optimized
+                                    to meet search intent.
                                 </p>
 
-                                <p class="mt-3">
+                                <span class="mb-15 fs-5 fw-bold">Title and Meta Description Optimization:</span>
+                                <p class="mt-2">
                                     <img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
-                                    <strong class="text-white"> Remarketing Opportunities: </strong> Reach users who
-                                    have previously visited your website but didn’t make a purchase.
+                                    We write captivating page titles and meta descriptions using targeted keywords to
+                                    increase click-through rates (CTR).
+                                </p>
+                                <p class="mt-2 mb-4">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Titles are concise, descriptive, and within the ideal character limit for search
+                                    engine visibility.
+                                </p>
+
+                                <span class="mb-15 fs-5 fw-bold">Schema Markup Implementation:</span>
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Structured data (schema markup) is added to your site, providing search engines with
+                                    detailed information about your content.
+                                </p>
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    This enhances search appearance with rich snippets like product reviews, ratings,
+                                    and event details.
+                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-4 d-flex justify-content-center align-items-center">
+                        <div class=" wuc-area-side-img about-area-side-img p-relative" style="margin-right: 40px;">
+                            <img src="images/about/h2-side-bg-img.png" alt="">
+                            <img class="side-img-part p-absolute" src="images/about/h2-side-bg-part.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Service Details Works Start  -->
+
+        <!-- Service Details Wcu One End -->
+        <div class="wcu-area body-black p-relative pb-140 ">
+            <div class="container">
+                <div class="row ">
+                    <div class="col-xl-8">
+                        <div class="section-title mb-60 style-1">
+
+                            <h2>Off-Page SEO</h2>
+                        </div>
+                        <div class="">
+                            <div class="wcu-area-info-card-wrapper">
+                                <p class="mb-4 text-justify">
+                                    Off-Page SEO focuses on building your website’s authority and credibility through
+                                    external activities. A strong off-page presence signals to search engines that your
+                                    site is trustworthy and relevant.
+                                </p>
+                                <span class="mb-15 fs-5 fw-bold">Backlink building: </span>
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    We acquire quality backlinks from authoritative websites through ethical
+                                    link-building strategies.
+                                </p>
+                                <p class="mt-2 mb-3">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Backlinks act as a vote of confidence, helping search engines rank your site higher.
+                                </p>
+
+                                <span class="mb-15 fs-5 fw-bold">Domain Authority Improvement:</span>
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Focus on acquiring links from authoritative and relevant sites.
+                                </p>
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Develop shareable, informative content that adds value to your audience
+                                </p>
+
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Resolve broken links, optimize loading speed, and ensure mobile compatibility.
+                                </p>
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Maintain a clean, responsive design and ensure easy navigation.
+                                </p>
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Promote your content to boost visibility and generate backlinks.
                                 </p>
                             </div>
                         </div>
@@ -288,6 +379,97 @@
             </div>
         </div>
         <!-- Service Details Works Start  -->
+        <!-- Service Details Wcu One End -->
+        <div class="wcu-area body-black p-relative pb-140 ">
+            <div class="container">
+                <div class="row ">
+                    <div class="col-xl-8">
+                        <div class="section-title mb-60 style-1">
+
+                            <h2>Technical SEO</h2>
+                        </div>
+                        <div class="">
+                            <div class="wcu-area-info-card-wrapper">
+                                <p class="mb-4 text-justify">
+                                    Technical SEO ensures your website is optimized for search engine bots to crawl,
+                                    index, and rank your content. It also enhances user experience by making your site
+                                    fast, mobile-friendly, and error-free.
+                                </p>
+                                <span class="mb-15 fs-5 fw-bold">Speed Optimization: </span>
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Use formats like WebP or JPEG and compress images to reduce file sizes.
+                                </p>
+                                <p class="mt-2 ">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Store temporary data to load pages faster for returning visitors.
+                                </p>
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Store temporary data to load Reduce unnecessary characters in HTML, CSS, and
+                                    JavaScript.
+                                </p>
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Distribute content across multiple servers for faster loading.
+                                </p>
+                                <p class="mt-2 mb-3">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Choose a reliable hosting provider with adequate server resources.
+                                </p>
+
+                                <span class="mb-15 fs-5 fw-bold">Crawlability Enhancements:</span>
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Submit a clear XML sitemap to search engines for better indexing.
+                                </p>
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Guide search engine bots on which pages to crawl or avoid.
+                                </p>
+
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Ensure all internal and external links are functional.
+                                </p>
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Use clean, descriptive URLs that include relevant keywords.
+                                </p>
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Implement structured data to help search engines understand your content better.
+                                </p>
+                                <p class="mt-2">
+                                    <img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png" />
+                                    Ensure your website is mobile-friendly with responsive design.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-4 d-flex justify-content-center align-items-center">
+                        <div class=" wuc-area-side-img about-area-side-img p-relative" style="margin-right: 40px;">
+                            <img src="images/about/h2-side-bg-img.png" alt="">
+                            <img class="side-img-part p-absolute" src="images/about/h2-side-bg-part.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Service Details Works Start  -->
+
+
         <div class="our-work-step pb-140">
             <div class="container">
                 <div class="section-title mb-60 style-1">
@@ -298,19 +480,25 @@
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="our-work-step-card-wrapper">
                             <div class="our-work-step-card-title">
-                                <h4>Google Ads Management</h4>
-                                <p class="mb-3"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Manage search, display, and shopping ads.</p>
-                                <p class="mb-3"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Choose campaigns aligned with your goals.</p>
+                                <h4>Our On-Page SEO Services</h4>
                                 <p class="mb-2"><img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Adjust bids and budgets for efficiency.</p>
+                                        class="mr-2" /> Content Optimization.</p>
                                 <p class="mb-2"><img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Track and optimize for better results.</p>
+                                        class="mr-2" /> Title & Meta Description.</p>
+                                <p class="mb-2"><img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
+                                        class="mr-2" /> Header Tags.</p>
+                                <p class="mb-2"><img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
+                                        class="mr-2" /> Internal Linking.</p>
+                                <p class="mb-2"><img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
+                                        class="mr-2" /> Image Optimization.</p>
+                                <p class="mb-2"><img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
+                                        class="mr-2" /> Schema Markup.</p>
                             </div>
                         </div>
                     </div>
@@ -318,21 +506,26 @@
                         <div class="our-work-step-card-wrapper">
                             <div class="our-work-step-card-title">
 
-                                <h4 style="margin-left:-97px">Keyword Research</h4>
-                                <p class="mb-3"><img width="20" height="20"
+                                <h4>Our Off-Page SEO Services</h4>
+                                <p class="mb-2 mt-0"><img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Find high-impact keywords using tools.</p>
-                                <p class="mb-3"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Focus on both short-tail and long-tail keywords.</p>
+                                        class="mr-2" /> Link Building.</p>
                                 <p class="mb-2"><img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Improve visibility with competitive analysis.
+                                        class="mr-2" /> Guest Posting.</p>
+                                <p class="mb-2"><img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
+                                        class="mr-2" /> Social Media Promotion.
 
                                 </p>
                                 <p class="mb-2"><img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Continuously refine keywords for relevance.
+                                        class="mr-2" /> Influencer Outreach.
+
+                                </p>
+                                <p class="mb-2"><img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
+                                        class="mr-2" /> Brand Mentions
 
                                 </p>
                             </div>
@@ -342,19 +535,28 @@
                         <div class="our-work-step-card-wrapper">
                             <div class="our-work-step-card-title">
 
-                                <h4>Ad Optimization</h4>
-                                <p class="mb-3"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Perform A/B testing to find the best ads.</p>
-                                <p class="mb-3"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Adjust headlines, visuals, and descriptions.</p>
+                                <h4>Our Technical SEO Services</h4>
                                 <p class="mb-2"><img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Optimize landing pages for better conversions.</p>
+                                        class="mr-2" /> Site Speed Optimization.</p>
                                 <p class="mb-2"><img width="20" height="20"
                                         src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Track metrics and apply data-driven changes.</p>
+                                        class="mr-2" /> Mobile Responsiveness.</p>
+                                <p class="mb-2"><img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
+                                        class="mr-2" /> XML Sitemap Creation.</p>
+                                <p class="mb-2"><img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
+                                        class="mr-2" /> Robots.txt Management.</p>
+                                <p class="mb-2"><img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
+                                        class="mr-2" /> SSL Certificate.</p>
+                                <p class="mb-2"><img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
+                                        class="mr-2" /> URL Structure.</p>
+                                <p class="mb-2"><img width="20" height="20"
+                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
+                                        class="mr-2" /> Fixing Errors.</p>
                             </div>
                         </div>
                     </div>
@@ -362,85 +564,7 @@
             </div>
         </div>
         <!-- Service Details Works End  -->
-        <!-- Why Choose Us Start   -->
-        <div class="wcu-area body-black p-relative pb-140 ">
-            <div class="container">
-                <div class="section-title mb-60 style-1">
-                    <span class="pb-15">Mention<img src="images/icon/section-title-arrow.svg" alt=""></span>
-                    <h2> keyword research, ad optimization, and A/B testing</h2>
-                </div>
-                <div class="row ">
-                    <div class="col-xl-8">
-                        <div class="wcu-area-card-info">
-                            <div class="wcu-area-info-card-wrapper">
-                                <h5>Keyword Research</h5>
-                                <div class="title-border-3 mt-30 mb-30"></div>
-                                <p class="mb-2"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Find customer-searched keywords.
-                                </p>
-                                <p class="mb-2"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Use tools for low-competition, high-impact keywords.
-                                </p>
-                                <p class="mb-2"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Target both broad and specific keywords.
-                                </p>
-                                <p class="mb-2"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" /> Regularly update keywords for better results.
-                                </p>
-
-                            </div>
-                            <div class="wcu-area-info-card-wrapper">
-                                <h5>Ad Optimization</h5>
-                                <div class="title-border-3 mt-30 mb-30"></div>
-                                <p class="mb-2"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" />Adjust headlines, descriptions, and visuals.
-                                </p>
-                                <p class="mb-2"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" />Use clear CTAs for engagement.
-                                <p class="mb-2"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" />Align ads with landing pages.
-                                <p class="mb-2"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" />Track CTR and conversions for improvements.
-                            </div>
-
-                            <div class="wcu-area-info-card-wrapper">
-                                <h5>A/B Testing</h5>
-                                <div class="title-border-3 mt-30 mb-30"></div>
-                                <p class="mb-2"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" />Test different ad versions.
-                                </p>
-                                <p class="mb-2"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" />Experiment with images, copy, and headlines.</p>
-                                <p class="mb-2"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" />Analyze clicks, conversions, and engagement.</p>
-                                <p class="mb-2"><img width="20" height="20"
-                                        src="https://img.icons8.com/glyph-neue/64/FAB005/instagram-verification-badge.png"
-                                        class="mr-2" />Apply results to optimize future campaigns.</p>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4 col-md-4">
-                        <div class=" wuc-area-side-img about-area-side-img p-relative">
-                            <img src="images/about/h2-side-bg-img.png" alt="">
-                            <img class="side-img-part p-absolute" src="images/about/h2-side-bg-part.png" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Why Choose Us End   -->
+       
     </div>
     <!-- Services Details Page End -->
 
